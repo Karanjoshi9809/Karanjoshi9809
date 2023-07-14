@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Karanjoshi9809/Karanjoshi9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
