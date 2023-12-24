@@ -1,7 +1,6 @@
-![image](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h2 align="left">Hey, I'm Karan Joshi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p>👨‍🎓This is Karan Joshi, an Information Technology undergraduate, pursuing a B.E from <a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
+<p>👨‍🎓This is Karan Joshi, an Information Technology undergraduate, pursuing a B.E from <a href="http://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
 </p>
 
 <h2 align="left">Connect with me🤝</h2>
@@ -35,12 +34,3 @@
  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
 </p>
-
-<div>
-<h2>Stats📈</h2>	
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KaranJoshi9809&show_icons=true&theme=tokyonight" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranJoshi9809&theme=tokyonight" />
-</p>
-</div>
